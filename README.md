@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Hayatudeen 👋<br>About Me<br><br>🎯 I'm currently working on Football Clips, an AI video editor built for football and movie-recap creators, racing to be ready for the 2026 World Cup. Also the solo dev behind a student-application platform for a 13K-student vocational school in Istanbul.<br><br>🙌 I'm looking to collaborate on Football & movie-recap creators who'd beta-test an AI editing tool and tell me what's broken.<br><br>🤝 I'm looking for help with Investor intros, sports-tech or creator-economy folks preferred.<br><br>🌱 I'm currently learning How far you can actually take agentic coding. I run Claude Code as a real build partner, not autocomplete, across two production codebases.<br><br>💬 Ask me about Shipping a SaaS solo, AI video pipelines (FFmpeg, Cloud Run, highlight detection), or how to keep AI-generated footage from becoming a copyright headache.<br><br>⚡ Fun fact FIFA's the constant. God of War and racing games fill in the rest. Always down to try something new.
 
 
